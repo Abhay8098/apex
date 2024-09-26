@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapexlegends=self.webpackChunkapexlegends||[]).push([[722],{7722:(e,n,s)=>{s.r(n),s.d(n,{default:()=>u}),s(7294);var d=s(5893);const u=function(){return(0,d.jsx)("div",{children:"Legends"})}}}]);

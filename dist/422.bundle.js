@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapexlegends=self.webpackChunkapexlegends||[]).push([[422],{2422:(e,n,s)=>{s.r(n),s.d(n,{default:()=>a}),s(7294);var u=s(5893);const a=function(){return(0,u.jsx)("div",{children:"PageNotFound"})}}}]);
